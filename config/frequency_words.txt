@@ -26,7 +26,6 @@ bytedance
 腾讯
 Tencent
 百度
-张一鸣
 
 微软
 Microsoft
