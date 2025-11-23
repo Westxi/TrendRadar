@@ -43,6 +43,7 @@ GPT
 google
 gemini
 deepmind
+Nano Banana
 
 chatgpt
 openai
